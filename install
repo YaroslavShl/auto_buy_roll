@@ -1,0 +1,3 @@
+cd /root/massa/massa-client
+candidat=\$(./massa-client wallet_info |grep 'Candidate rolls'|awk '{print \$3}')
+echo candidat
