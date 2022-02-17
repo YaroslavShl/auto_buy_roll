@@ -1,2 +1,8 @@
-echo -e . <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh);
-echo -e . <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh);
+downloadFirst(){
+	. <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh)
+}
+downloadSecond(){
+	. <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh)
+}
+downloadFirst()
+downloadSecond()
