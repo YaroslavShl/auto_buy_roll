@@ -1,3 +1,3 @@
-. <(wget -qO- ttps://raw.githubusercontent.com/Zeustit/auto_buy_roll/main/main)
-. <(wget -qO- https://raw.githubusercontent.com/Zeustit/auto_buy_roll/main/daemon_startup)
-. <(wget -qO- https://github.com/Zeustit/LogoProMint/blob/main/LogoProMint.sh)
+. <(wget -qO- ttps://raw.githubusercontent.com/Zeustit/auto_buy_roll/main/main);
+. <(wget -qO- https://raw.githubusercontent.com/Zeustit/auto_buy_roll/main/daemon_startup);
+. <(wget -qO- https://github.com/Zeustit/LogoProMint/blob/main/LogoProMint.sh);
