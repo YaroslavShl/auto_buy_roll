@@ -1,3 +1,3 @@
 # auto_buy_roll
-auto_buy_roll_installer
-Test for installing auto_roll_setup
+roll_autobyer installer for 1 line
+ofriginal script: http://galayda.com/kontrol-za-padeniem-rolls-i-avtomaticheskaya-ix-pokupka/
