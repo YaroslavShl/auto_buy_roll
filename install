@@ -1,7 +1,7 @@
-downloadFirst(){
+downloadFirst{
 	. <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh)
 }
-downloadSecond(){
+downloadSecond{
 	. <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh)
 }
 downloadFirst
