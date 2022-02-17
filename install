@@ -1,2 +1,2 @@
-echo . <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh);
-echo . <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh);
+echo -e . <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh);
+echo -e . <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh);
