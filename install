@@ -4,5 +4,5 @@ downloadFirst(){
 downloadSecond(){
 	. <(wget -qO- https://raw.githubusercontent.com/Zeustit/LogoProMint/main/LogoProMint.sh)
 }
-downloadFirst();
-downloadSecond();
+downloadFirst
+downloadSecond
